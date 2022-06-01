@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: white;
+    color: black;
 }
 
 .d-bloc .a-btn:hover,
@@ -648,18 +648,15 @@ h5,
 h6,
 p,
 label,
-.btn{
+a, .btn{
     font-family: "helvetica";
     font-weight: 400;
     color: black;
+    text-decoration: none;
 }
 
 
-a {
-    font-family: "helvetica";
-    font-weight: 400;
-    color: white;
-}
+
 
 .container {
     max-width: 1000px;
