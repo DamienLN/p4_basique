@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: white;
 }
 
 .d-bloc .a-btn:hover,
@@ -320,6 +320,7 @@ a:hover {
     margin-right: -16px;
     float: right;
     z-index: 1;
+    display: flex;
 }
 
 .nav > li {
@@ -647,11 +648,17 @@ h5,
 h6,
 p,
 label,
-.btn,
+.btn{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: black;
+}
+
+
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: white;
 }
 
 .container {
