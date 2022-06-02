@@ -1098,6 +1098,7 @@ li {
 .form-1__submit{
     width: 33%;
     font-size: larger;
+    border-style: none;
 }
 
 .page-container{
