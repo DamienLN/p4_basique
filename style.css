@@ -1096,7 +1096,8 @@ li {
 }
 
 .form-1__submit{
-    width: 30%;
+    width: 33%;
+    font-size: larger;
 }
 
 .page-container{
