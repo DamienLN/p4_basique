@@ -1062,15 +1062,6 @@ li {
     list-style: none;
 }
 
-.form-1{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    margin: 0;
-    padding-left: 10%;
-    background: lightgray;
-    padding: 5% 10%;
-}
 
 .form-1 label{
     padding: 1% 0;
