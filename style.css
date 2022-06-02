@@ -1128,6 +1128,6 @@ li {
     padding: 30px;
 }
 
-.linl li{
-    padding: 30px
+.form-control::placeholder {
+    background-color: #cccccc;
 }
